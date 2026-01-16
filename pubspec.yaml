@@ -1,17 +1,17 @@
 name: native_exif
 description: A plugin to read and write exif data of images.
-version: 0.6.2
+version: 0.7.0
 homepage: https://github.com/cloudacy/native_exif
 
 environment:
-  sdk: '^3.3.0'
-  flutter: '>=3.19.0'
+  sdk: "^3.3.0"
+  flutter: ">=3.19.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  intl: '>=0.19.0 <0.21.0'
+  intl: ">=0.19.0 <0.21.0"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

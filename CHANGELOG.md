@@ -1,3 +1,12 @@
+## [0.7.0] - 2026-01-16
+
+- Android: AGP update to version 8.13.2
+- Android: Gradle wrapper update to version 8.13 (example app)
+- Android: Kotlin update to version 2.2.21
+- Android: set JVM target to 17 and Java source/target to 17
+- Android!: set `minSdkVersion` to `21`
+- Android: set `compileSdkVersion` to `36` and example app `targetSdkVersion` to `34`
+
 ## [0.6.2] - 2025-05-21
 
 - Set `intl` dependency version constraint to `>=0.19.0 <0.21.0` (from `>=0.19.0`)
